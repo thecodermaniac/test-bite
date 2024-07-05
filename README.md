@@ -1,5 +1,16 @@
-## Live Link
+## Live Link (test on postman)
 https://test-bite.onrender.com
+
+### sample request
+
+post request endpoint :- https://test-bite.onrender.com/identify
+```bash
+  {
+  "email": "george@hillvalley.edu",
+  "phoneNumber": "7171712719"
+  }
+
+```
 
 ## To run on local 
 
